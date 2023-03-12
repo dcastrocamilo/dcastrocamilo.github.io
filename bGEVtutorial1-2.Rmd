@@ -246,7 +246,7 @@ tail.x = null.matrix
 Then, the INLA data and formula can be defined as
 ```{r}
 data.bgev = data.frame(y = y, intercept = 1, x = x, spread.x = spread.x, tail.x = tail.x)
-formula = inla.mdata(y, spread.x, tail.x) ~ -1 + intercept + x
+formula = inla.mdata(y, spread.x, tail.x) ~ -1 + intercept + x
 ```
 
 \textbf{Note:} $\texttt{data.bgev}$ only contains three columns, as null matrices cannot be passed to data frames in R. As $\texttt{spread.x}$ and $\texttt{tail.x}$ are not defined in $\texttt{data.bgev}$, INLA will search for these variables in the global R environment. Therefore, $\texttt{spread.x}$ and $\texttt{tail.x}$ should be defined as null matrices in the global environment (as we do here).
@@ -353,7 +353,7 @@ As mentioned in [Section 3.4]({#sec:fit1}), we can use the [$\texttt{inla.mdata}
 ```{r}
 spread.x = x2
 tail.x = x3
-formula = inla.mdata(y, spread.x, tail.x) ~ -1 + intercept + x
+formula = inla.mdata(y, spread.x, tail.x) ~ -1 + intercept + x
 ```
 
 Then, the INLA data can be defined as
