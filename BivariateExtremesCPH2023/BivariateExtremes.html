@@ -1426,7 +1426,8 @@ visibility: visible;
 }
 .spoiler:hover::before {
 display: none;
-}</style>
+}
+</style>
 
 
 
@@ -1589,7 +1590,7 @@ Extremes</h1>
 <h3 class="subtitle">Lecture notes for PhD summer school on “Modelling
 and statistical analysis of extremes in time series” organised by Thomas
 Mikosch and Olivier Wintenbeger. October 2023.</h3>
-<h4 class="author">Daniela Castro-Camilo</h4>
+<h4 class="author">Daniela Castro-Camilo<span class="math inline">\(^*\)</span></h4>
 <address class="author_afil">
 University of Glasgow<br>
 </div>
@@ -1600,6 +1601,11 @@ MathJax.Hub.Config({
   TeX: { equationNumbers: { autoNumber: "AMS" } }
 });
 </script>
+<style type="text/css">
+body{
+font-size: 12pt;
+}
+</style>
 <div id="introduction" class="section level1" number="1">
 <h1><span class="header-section-number">1</span> Introduction</h1>
 <p>Bivariate extreme models are a powerful statistical tools used to
@@ -2137,7 +2143,10 @@ approaches</h2>
 <div id="r-packages-for-extremes" class="section level2" number="8.5">
 <h2><span class="header-section-number">8.5</span> R packages for
 extremes</h2>
-<!-- These models often employ parametric or semi-parametric techniques like copulae and various parametric or non-parametric approaches to capture the complex interdependence between extremes, providing insights into the simultaneous occurrence of extreme events in a bivariate context. -->
+<p><span class="math inline">\(^*\)</span> These notes were created by
+<a href="https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/">Daniela
+Castro-Camilo</a>] inspired by Raphaël Huser course at KAUST.
+<!-- These models often employ parametric or semi-parametric techniques like copulae and various parametric or non-parametric approaches to capture the complex interdependence between extremes, providing insights into the simultaneous occurrence of extreme events in a bivariate context. --></p>
 <!-- This module focuses on the characterisation of joint extremes, and more specifically how this characterisation can be. -->
 <!-- This template is for knitting R Markdown documents to *both* HTML and PDF format. It tries to take care of various inconsistencies between the two formats with minimum effort from the user. Just click "Knit" (in Rstudio) and it will automatically export to both formats. As the name suggests, I predominantly use it for my lecture notes. But I find that it works well for writing papers too. -->
 <!-- See the package [README](https://github.com/grantmcdermott/lecturenotes/blob/master/README.md) for a longer description, as well as potential gotchas and limitations (e.g. font support for different LaTeX engines). -->
