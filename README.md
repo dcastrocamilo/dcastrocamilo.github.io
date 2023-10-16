@@ -1,3 +1,3 @@
 # dcastrocamilo.github.io
 
-Please go to https://dcastrocamilo.github.io/BivariateExtremes/BivariateExtremes.html
+Please go to [dcastrocamilo.github.io/BivariateExtremes/BivariateExtremes.html](https://dcastrocamilo.github.io/BivariateExtremes/BivariateExtremes.html)
