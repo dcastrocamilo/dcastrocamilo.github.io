@@ -2,7 +2,7 @@
 title: "Research"
 subtitle: "Research areas and related publications"
 description: "Research by Daniela Castro-Camilo on extreme value theory, spatial and spatio-temporal statistics, Bayesian inference, causal inference and environmental risk."
-canonical-url: "https://dcastrocamilo.github.io/dcc/research.html"
+canonical-url: "https://dcastrocamilo.github.io/research.html"
 ---
 
 Click a research area to jump to a short description and related publications.

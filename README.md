@@ -1,6 +1,6 @@
 # Daniela Castro-Camilo personal website
 
-This is a Quarto website scaffold for `https://dcastrocamilo.github.io/dcc/`.
+This is a Quarto website scaffold for `https://dcastrocamilo.github.io/`.
 
 ## Files
 

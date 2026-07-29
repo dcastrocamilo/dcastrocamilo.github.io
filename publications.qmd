@@ -2,7 +2,7 @@
 title: "Publications"
 subtitle: "Full publication list"
 description: "Publications by statistician Daniela Castro-Camilo on environmental extremes, spatial statistics, Bayesian modelling, causal inference and risk."
-canonical-url: "https://dcastrocamilo.github.io/dcc/publications.html"
+canonical-url: "https://dcastrocamilo.github.io/publications.html"
 ---
 
 This page lists publications by year, including manuscripts under revision. Topic links point to the research areas where each paper fits most naturally.

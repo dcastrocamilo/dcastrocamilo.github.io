@@ -12,11 +12,11 @@ project:
 
 website:
   title: "Daniela Castro-Camilo"
-  site-url: "https://dcastrocamilo.github.io/dcc/"
+  site-url: "https://dcastrocamilo.github.io/"
   description: "Daniela Castro-Camilo is a Senior Lecturer in Statistics at the University of Glasgow, researching environmental extremes, spatial statistics, Bayesian inference and causal inference."
   open-graph: true
   twitter-card: true
-  repo-url: "https://github.com/dcastrocamilo/dcc"
+  repo-url: "https://github.com/dcastrocamilo/dcastrocamilo.github.io"
   search: true
   navbar:
     background: "#13294B"

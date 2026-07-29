@@ -2,7 +2,7 @@
 title: "Admin and service"
 subtitle: "Academic service, editorial work, organisation and teaching"
 description: "Academic service, editorial roles, grants, event organisation and teaching by Daniela Castro-Camilo at the University of Glasgow."
-canonical-url: "https://dcastrocamilo.github.io/dcc/admin.html"
+canonical-url: "https://dcastrocamilo.github.io/admin.html"
 ---
 
 ## Professional service

@@ -1,7 +1,7 @@
 ---
 title: "Daniela Castro-Camilo"
 description: "Daniela Castro-Camilo, Senior Lecturer in Statistics at the University of Glasgow, researches environmental extremes, spatial statistics, Bayesian inference and causal inference."
-canonical-url: "https://dcastrocamilo.github.io/dcc/"
+canonical-url: "https://dcastrocamilo.github.io/"
 page-layout: full
 toc: false
 title-block-banner: false

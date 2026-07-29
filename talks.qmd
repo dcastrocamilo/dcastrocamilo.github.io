@@ -2,7 +2,7 @@
 title: "Talks"
 subtitle: "Selected talks, lectures and event pages"
 description: "Selected talks, lectures, workshops and event pages by statistician Daniela Castro-Camilo."
-canonical-url: "https://dcastrocamilo.github.io/dcc/talks.html"
+canonical-url: "https://dcastrocamilo.github.io/talks.html"
 ---
 
 This page is intended as a clean landing page for slides, recordings and event links. Add links as they become available.

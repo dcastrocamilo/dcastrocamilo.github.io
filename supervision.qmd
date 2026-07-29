@@ -2,7 +2,7 @@
 title: "Supervision"
 subtitle: "PhD, visiting PhD, MSc and honours supervision"
 description: "PhD and student supervision by Daniela Castro-Camilo in extreme value theory, spatial statistics, Bayesian modelling, causal inference and environmental statistics."
-canonical-url: "https://dcastrocamilo.github.io/dcc/supervision.html"
+canonical-url: "https://dcastrocamilo.github.io/supervision.html"
 ---
 
 ## Opportunities for PhD applicants
