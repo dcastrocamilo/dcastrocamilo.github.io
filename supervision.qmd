@@ -29,6 +29,9 @@ If you are interested in doing a PhD, please email me at [Daniela.CastroCamilo@g
 - **Kirsty Ryman**  
   *Extreme value theory for dispersal processes and animal movement in changing environments*
 
+- **Tao Shen**  
+  *Adaptive Probabilistic Forecasting for Electricity Systems*
+
 - **Mengran Li**  
   *Causal Inference in the Tails: Extreme Event Attribution, Treatment Effects, and Structural Discovery*
 
