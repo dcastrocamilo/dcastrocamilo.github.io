@@ -65,4 +65,4 @@ If you are interested in doing a PhD, please email me at [Daniela.CastroCamilo@g
 
 Past honours projects include work by Caitlin Fox, Tianhao Tan, Mahi Siddika, Paddy O'Hara, Mengran Li, Erin Bryce, Louis Chislett, Holly Moran, Huinan Zhu, Maria Tsiarkezou, Samuele D'Avenia, Sixiang Chen, Rob Corner,  Cara McPhail, Arran Boyle, Kirsty Ryman, Martha Tindall (won the [PSI prize](https://psiweb.org/careers) for best undergraduate final project), Amina Rage, Hend Alshehhi, Davide Rossi and Lapo Ceccarelli (see this [solar nugget](https://heliowiki.smce.nasa.gov/wiki/index.php/How_Extreme_Can_Solar_Flares_Get%3F_A_Statistical_View) about Lapo's dissertation!).
 
-Potential student projects usually sit around environmental extremes, spatial statistics, Bayesian modelling, statistical learning for hazards, and applications involving climate, ecology or natural hazards.
+Potential student projects usually sit around environmental extremes, spatial statistics, Bayesian modelling, statistical learning for hazards, and applications involving climate, ecology and natural hazards.

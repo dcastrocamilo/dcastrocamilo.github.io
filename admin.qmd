@@ -20,8 +20,9 @@ canonical-url: "https://dcastrocamilo.github.io/admin.html"
 - Co-organiser, **EnvEcoStats**, environmental and ecological statistics conference.  [Link here](https://lancasterextremes.co.uk/)).
 <!-- - Organiser/co-organiser of invited sessions on extremes, environmental statistics and statistical risk. -->
 
-## Grants
+## Grants and Fellowships
 
+- **SEED: Spatial Modelling of Extreme Counts for Environmental and Ecological Data**. Royal Society of Edinburgh's Personal Research Fellowship.
 - **GEOBEx: Geostatistical Binary Models for Extremes**. EPSRC-funded project in collaboration with Carolina Euan, Lancaster University.
 - **Predict4Resilience beta phase**. Funded by the Office for Gas and Electricity Markets, in collaboration with Scottish Power, SIA Partners and the Met Office.
 - **Improving landslide hazard assessment in Scotland**. Funded by the Scottish Government through the National Centre for Resilience, with the British Geological Survey and the University of Twente.
