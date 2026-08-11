@@ -1,6 +1,6 @@
 ---
-title: "Talks and Related Events"
-subtitle: "Selected talks, lectures and event pages"
+title: "Talks & Events"
+subtitle: "Selected talks, lectures and events"
 # description: "Selected talks, lectures, workshops and event pages by statistician Daniela Castro-Camilo."
 canonical-url: "https://dcastrocamilo.github.io/talks.html"
 ---
@@ -8,13 +8,13 @@ canonical-url: "https://dcastrocamilo.github.io/talks.html"
 ## Recent talks
 
 - Talks based on the article [Tail-Calibrated Estimation of Extreme Quantile Treatment Effects](https://arxiv.org/abs/2603.23309)
-  - Invited talk given at the 2026 ISI RSC in Malta (more *stastsy*)   [Slides](assets/talks/gpdflow-game-2026.pdf)
-  - Invited talk given at the 2026 EXALT project workshop "Learning Spatio-Temporal Climate Extremes", for an audience including statisticians and climate scientists
+  - Invited talk given at the [2026 ISI RSC in Malta](https://www.isi-next.org/conferences/isi-rsc-malta-2026/#:~:text=Join%20us%20from%203%20to%205%20June,Regional%20Statistical%20Conference%2C%20the%20first%20in%20Europe.&text=ISI%20and%20its%20Associations%20are%20preparing%2C%20in,traditional%20to%20their%20interactions%20with%20artificial%20intelligence.) (slides are more *stastsy*). 📄 [Slides](assets/talks/tiee-isirsc-2026.pdf)
+    
+  - Invited talk given at the 2026 EXALT project workshop ["Learning Spatio-Temporal Climate Extremes"](https://exalt-project.github.io/workshop-2026/), for an audience including statisticians and climate scientists. 📄 [Slides](assets/talks/tiee-uclovain-2026.pdf)
 
-- Invited talk **Learning Extremal Dependence with Normalising Flows**  given at the GAME 2026 workshop in Bologna, based on [the GPDFlow article](https://arxiv.org/abs/2503.11822)
+- Invited talk **Learning Extremal Dependence with Normalising Flows**  given at the [GAME 2026 workshop](https://site.unibo.it/una-europa/en/gamex-generative-ai-modeling-for-extreme-events/scientific-workshop/view) in Bologna, based on [the GPDFlow article](https://arxiv.org/abs/2503.11822). 📄 [Slides](assets/talks/gpdflow-game-2026.pdf)
    
-
-- Seminar talk **Data fusion and extremes: a match made in Bayesian heaven** given at the EPN seminar series in 2025, based on [Spatio-temporal fusion of reanalysis and in situ data for censored threshold exceedances of PM$_{2.5}$](https://arxiv.org/abs/2504.20268)
+- Seminar talk **Data fusion and extremes: a match made in Bayesian heaven** given at the EPN seminar series in 2025, based on [Spatio-temporal fusion of reanalysis and in situ data for censored threshold exceedances of PM$_{2.5}$](https://arxiv.org/abs/2504.20268). 📄 [Slides](assets/talks/exdf-epn-2026.pdf)
 
 <!-- - **INLA: Past, Present, and Future**   -->
 <!--   Workshop in honour of Håvard Rue's 60th birthday. Add slides and tutorials here. -->
@@ -24,7 +24,7 @@ I'm co-founder of the Glasgow-Edinburgh Extremes Network, a joint effort between
 
 - [GLE²N: Glasgow--Edinburgh Extremes Network](https://glen-scotland.github.io/glen/)
 
-## Seminars, workshops and conferences links
+## Event organisation 
 
 Here are links of events I'm involved in some capacity (as main organiser or co-organiser)
 
@@ -34,12 +34,12 @@ Here are links of events I'm involved in some capacity (as main organiser or co-
 
 - [EnvEcoStats 2025](https://envecostats.wordpress.com/)
 
-## How to add a talk
+<!-- ## How to add a talk -->
 
-Use this template:
+<!-- Use this template: -->
 
-```markdown
-- **Title of talk**  
-  Venue or event, month year.  
-  [Slides](#) · [Recording](#) · [Event page](#)
-```
+<!-- ```markdown -->
+<!-- - **Title of talk**   -->
+<!--   Venue or event, month year.   -->
+<!--   [Slides](#) · [Recording](#) · [Event page](#) -->
+<!-- ``` -->

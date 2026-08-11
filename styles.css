@@ -114,7 +114,8 @@ body:has(.homepage) .page-columns .column-margin {
 }
 
 .hero-copy p {
-  max-width: 720px;
+  width: calc(100% + 60px);
+  max-width: 990px;
   font-size: clamp(1.08rem, 1.3vw, 1.45rem);
   line-height: 1.55;
   margin-bottom: 1.55rem;
@@ -341,6 +342,10 @@ body:has(.homepage) .page-columns .column-margin {
 }
 
 @media (max-width: 900px) {
+  .hero-copy p {
+    width: 100%;
+  }
+
   .research-grid {
     grid-template-columns: repeat(2, 1fr);
   }

@@ -12,23 +12,25 @@ format:
 
 ::: {.homepage}
 
-::: {.hero-home}
+::: {.hero-home title="Conic Hill, Balmaha, Scotland. Picture taken by DCC"}
 ::: {.hero-inner}
 ::: {.hero-copy}
 
 # Daniela Castro-Camilo
 
 ::: {.hero-role}
-Senior Lecturer in Statistics  
-University of Glasgow
+Senior Lecturer in Statistics, University of Glasgow
 :::
 
 ::: {.hero-line}
 :::
 
-I develop statistical methods to understand, predict and attribute environmental and disaster-related extremes. My work lies at the interface of extreme value theory, spatial and spatio-temporal statistics, Bayesian inference and causal inference, with applications in the natural environment and critical infrastructure.
+I develop statistical methods to understand, predict and attribute environmental and disaster-related extremes. My work lies at the interface of extreme value theory, spatial and spatio-temporal statistics, Bayesian inference and causal inference, with most applications in the natural environment.
 
-A recurring theme in my work is the development of practical, user-friendly methods that better capture rare and impactful events, rather than treating them as outliers to be smoothed away.
+A recurring theme in my work is the development of practical, user-friendly methods that promote the need to adequately capture extreme observations within the usual statistical analysis centred around mean values.
+
+I'm co-founder of GLE²N (Glasgow-Edinburgh Extremes Network). Visit our [homepage!](https://glen-scotland.github.io/glen/){style="color: yellow;"}
+
 
 <!-- ::: {.hero-actions} -->
 <!-- [{{< fa file-lines >}} View CV](cv.pdf){.pill .pill-primary} -->
@@ -93,8 +95,7 @@ Weather-driven risk for energy systems and critical infrastructure
 :::
 :::
 
-[Explore all research areas →](research.qmd){.explore-button}
-
+[Explore all research areas →](research.qmd#research-areas){.explore-button}
 :::
 
 <!-- ::: {.contact-strip} -->

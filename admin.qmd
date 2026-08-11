@@ -13,19 +13,13 @@ canonical-url: "https://dcastrocamilo.github.io/admin.html"
 - Chair, International Environmetrics Society Outreach and Liaison Committee (2023-2025).
 - Elected Member, International Statistical Institute.
 
-## Event organisation and networks
+<!-- ## Event organisation and networks -->
 
-- Co-founder, **GLE²N: Glasgow--Edinburgh Extremes Network**, a network for applied, theoretical and methodological work in statistical risk analysis and extreme value theory. [Link here](https://glen-scotland.github.io/glen/)
-- Organiser, **INLA: Past, Present, and Future** biannual workshops. [Link here](https://inla-workshop.github.io/INLA-PastPresentFuture/)
-- Co-organiser, **EnvEcoStats**, environmental and ecological statistics conference.  [Link here](https://lancasterextremes.co.uk/)).
+<!-- - Co-founder, **GLE²N: Glasgow--Edinburgh Extremes Network**, a network for applied, theoretical and methodological work in statistical risk analysis and extreme value theory. [Link here](https://glen-scotland.github.io/glen/) -->
+<!-- - Organiser, **INLA: Past, Present, and Future** biannual workshops. [Link here](https://inla-workshop.github.io/INLA-PastPresentFuture/) -->
+<!-- - Co-organiser, **EnvEcoStats**, environmental and ecological statistics conference.  [Link here](https://lancasterextremes.co.uk/)). -->
 <!-- - Organiser/co-organiser of invited sessions on extremes, environmental statistics and statistical risk. -->
 
-## Grants and Fellowships
-
-- **SEED: Spatial Modelling of Extreme Counts for Environmental and Ecological Data**. Royal Society of Edinburgh's Personal Research Fellowship.
-- **GEOBEx: Geostatistical Binary Models for Extremes**. EPSRC-funded project in collaboration with Carolina Euan, Lancaster University.
-- **Predict4Resilience beta phase**. Funded by the Office for Gas and Electricity Markets, in collaboration with Scottish Power, SIA Partners and the Met Office.
-- **Improving landslide hazard assessment in Scotland**. Funded by the Scottish Government through the National Centre for Resilience, with the British Geological Survey and the University of Twente.
 
 ## University roles
 

@@ -1,11 +1,20 @@
 ---
-title: "Research"
-subtitle: "Research areas and related publications"
-description: "Research by Daniela Castro-Camilo on extreme value theory, spatial and spatio-temporal statistics, Bayesian inference, causal inference and environmental risk."
+# title: "Research"
+# subtitle: "Research areas and related publications"
+description: "Grants, fellowships and related research on extreme value theory, spatial and spatio-temporal statistics, Bayesian inference, causal inference and environmental risk."
 canonical-url: "https://dcastrocamilo.github.io/research.html"
 ---
 
-Click a research area to jump to a short description and related publications.
+# Grants and Fellowships
+
+- **SEED: Spatial Modelling of Extreme Counts for Environmental and Ecological Data**. Royal Society of Edinburgh's Personal Research Fellowship.
+- **GEOBEx: Geostatistical Binary Models for Extremes**. EPSRC-funded project in collaboration with Carolina Euan, Lancaster University.
+- **Predict4Resilience beta phase**. Funded by the Office for Gas and Electricity Markets, in collaboration with Scottish Power, SIA Partners and the Met Office.
+- **Improving landslide hazard assessment in Scotland**. Funded by the Scottish Government through the National Centre for Resilience, with the British Geological Survey and the University of Twente.
+
+
+# Research areas and related publications {#research-areas}
+Research on extreme value theory, spatial and spatio-temporal statistics, Bayesian inference, causal inference and environmental risk. Click a research area to jump to a short description and related publications.
 
 ::: {.research-grid}
 
@@ -53,9 +62,9 @@ This area develops statistical tools for causal questions where the object of in
 
 **Related publications**
 
-- Li, M., & Castro-Camilo, D. (2026). *On the importance of tail assumptions in climate extreme event attribution*. arXiv preprint arXiv:2507.14019.
-- Li, M., & Castro-Camilo, D. (2026). *Tail-Calibrated Estimation of Extreme Quantile Treatment Effects*. arXiv preprint arXiv:2603.23309.
-- Li, M., & Castro-Camilo, D. (2026). *Causal Discovery in Multivariate Extremes via Tail Asymmetry*. arXiv preprint arXiv:2604.21620.
+- Li, M., & Castro-Camilo, D. (2026). *On the importance of tail assumptions in climate extreme event attribution*. arXiv preprint [arXiv:2507.14019](https://arxiv.org/abs/2507.14019).
+- Li, M., & Castro-Camilo, D. (2026). *Tail-Calibrated Estimation of Extreme Quantile Treatment Effects*. arXiv preprint [arXiv:2603.23309](https://arxiv.org/abs/2603.23309).
+- Li, M., & Castro-Camilo, D. (2026). *Causal Discovery in Multivariate Extremes via Tail Asymmetry*. arXiv preprint [arXiv:2604.21620](https://arxiv.org/abs/2604.21620).
 
 
 ## Spatial and spatio-temporal extremes {#spatial-extremes}
@@ -64,10 +73,10 @@ I develop models for extremes observed over space and time, with applications to
 
 **Related publications**
 
-- Castro-Camilo, D. and Huser, R. (2020). *Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes*. **Journal of the American Statistical Association**, 115(531), 1037--1054.
-- Castro-Camilo, D., Mhalla, L. and Opitz, T. (2021). *Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures*. **Extremes**, 24(1), 105--128.
-- Castro-Camilo, D., Huser, R. and Rue, H. (2022). *Practical strategies for GEV-based regression models for extremes*. **Environmetrics**, 33(6), e2742.
-- Cuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2025). *Spatio-temporal data fusion of censored threshold exceedances*. arXiv preprint arXiv:2504.20268.
+- Castro-Camilo, D. and Huser, R. (2020). *Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes*. **Journal of the American Statistical Association**, 115(531), 1037--1054. DOI: [10.1080/01621459.2019.1647842](https://doi.org/10.1080/01621459.2019.1647842)
+- Castro-Camilo, D., Mhalla, L. and Opitz, T. (2021). *Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures*. **Extremes**, 24(1), 105--128. DOI: [10.1007/s10687-020-00394-z](https://doi.org/10.1007/s10687-020-00394-z)
+- Castro-Camilo, D., Huser, R. and Rue, H. (2022). *Practical strategies for GEV-based regression models for extremes*. **Environmetrics**, 33(6), e2742. DOI: [10.1002/env.2742](https://doi.org/10.1002/env.2742)
+- Cuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2025). *Spatio-temporal fusion of reanalysis and in situ data for censored threshold exceedances of PM$_{2.5}*. arXiv preprint [arXiv:2504.20268](https://arxiv.org/abs/2504.20268).
 - Hu, C., Bispo, R. B., Rue, H., DaCamara, C. C., Swallow, B. and Castro-Camilo, D. (2026). *XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal*. **Environmetrics**, 37(3), e70089.
 
 
@@ -102,12 +111,12 @@ This area covers environmental and ecological applications of extremes, includin
 
 **Related publications**
 
-- Castro-Camilo, D., Mhalla, L. and Opitz, T. (2021). *Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures*. **Extremes**, 24(1), 105--128.
-- Castro-Camilo, D. and Huser, R. (2020). *Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes*. **JASA**, 115(531), 1037--1054.
+- Castro-Camilo, D., Mhalla, L. and Opitz, T. (2021). *Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures*. **Extremes**, 24(1), 105--128. DOI: [10.1007/s10687-020-00394-z](https://doi.org/10.1007/s10687-020-00394-z)
+- Castro-Camilo, D. and Huser, R. (2020). *Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes*. **JASA**, 115(531), 1037--1054. DOI: [10.1080/01621459.2019.1647842](https://doi.org/10.1080/01621459.2019.1647842)
 - Hu, C. et al. (2026). *XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal*. **Environmetrics**, 37(3), e70089.
 - Li, M. et al. (2025). *A wee exploration of techniques for risk assessments of extreme events*. **Extremes**, 28(1), 101--121.
-- Cuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2025). *Spatio-temporal data fusion of censored threshold exceedances*. arXiv preprint arXiv:2504.20268.
-- Li, M., & Castro-Camilo, D. (2026). *On the importance of tail assumptions in climate extreme event attribution*. arXiv preprint arXiv:2507.14019.
+- Cuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2025). *Spatio-temporal fusion of reanalysis and in situ data for censored threshold exceedances of PM$_{2.5}*. arXiv preprint [arXiv:2504.20268](https://arxiv.org/abs/2504.20268).
+- Li, M., & Castro-Camilo, D. (2026). *On the importance of tail assumptions in climate extreme event attribution*. arXiv preprint [arXiv:2507.14019](https://arxiv.org/abs/2507.14019).
 
 ## Energy and weather-driven risk {#energy-risk}
 
@@ -128,7 +137,7 @@ I am interested in combining multiple environmental data sources while preservin
 **Related publications and projects**
 
 - Hu, C. et al. (2026). *XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal*. **Environmetrics**, 37(3), e70089.
-- Cuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2025). *Spatio-temporal data fusion of censored threshold exceedances*. arXiv preprint arXiv:2504.20268.
+- Cuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2025). *Spatio-temporal fusion of reanalysis and in situ data for censored threshold exceedances of PM$_{2.5}*. arXiv preprint [arXiv:2504.20268](https://arxiv.org/abs/2504.20268).
 - Current PhD project: *Bayesian Spatio-Temporal Modelling of Extremes: Forecasting, Scoring, and Data Fusion*.
 
 ## Extreme value regression and tail modelling {#tail-modelling}
@@ -140,14 +149,14 @@ This work develops flexible regression models for extremes, including generalize
 - Castro-Camilo, D. and de Carvalho, M. (2017). *Spectral density regression for bivariate extremes*. **Stochastic Environmental Research and Risk Assessment**, 31(7), 1603--1613.
 - Castro-Camilo, D., de Carvalho, M. and Wadsworth, J. (2018). *Time-varying extreme value dependence with application to leading European stock markets*. **Annals of Applied Statistics**, 12(1), 283--309.
 - Castro-Camilo, D., Huser, R. and Rue, H. (2019). *A spliced Gamma-Generalized Pareto model for short-term extreme wind speed probabilistic forecasting*. **JABES**, 24(3), 517--534.
-- Castro-Camilo, D., Huser, R. and Rue, H. (2022). *Practical strategies for GEV-based regression models for extremes*. **Environmetrics**, 33(6), e2742.
+- Castro-Camilo, D., Huser, R. and Rue, H. (2022). *Practical strategies for GEV-based regression models for extremes*. **Environmetrics**, 33(6), e2742. DOI: [10.1002/env.2742](https://doi.org/10.1002/env.2742)
 - Vandeskog, S. M., Martino, S. and Castro-Camilo, D. (2021). *Modelling Block Maxima With the Blended Generalised Extreme Value Distribution*. 22nd European Young Statisticians Meeting.
 - Hu, C., Swallow, B., & Castro-Camilo, D. (2024). *A Bayesian multivariate extreme value mixture model*. arXiv preprint arXiv:2401.15703.
 - Hu, C., & Castro-Camilo, D. (2025). *GPDFlow: Generative multivariate threshold exceedance modeling via normalizing flows*. arXiv preprint arXiv:2503.11822.
-- Cuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2025). *Spatio-temporal data fusion of censored threshold exceedances*. arXiv preprint arXiv:2504.20268.
-- Li, M., & Castro-Camilo, D. (2026). *On the importance of tail assumptions in climate extreme event attribution*. arXiv preprint arXiv:2507.14019.
-- Li, M., & Castro-Camilo, D. (2026). *Tail-Calibrated Estimation of Extreme Quantile Treatment Effects*. arXiv preprint arXiv:2603.23309.
-- Li, M., & Castro-Camilo, D. (2026). *Causal Discovery in Multivariate Extremes via Tail Asymmetry*. arXiv preprint arXiv:2604.21620.
+- Cuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2025). *Spatio-temporal fusion of reanalysis and in situ data for censored threshold exceedances of PM$_{2.5}*. arXiv preprint [arXiv:2504.20268](https://arxiv.org/abs/2504.20268).
+- Li, M., & Castro-Camilo, D. (2026). *On the importance of tail assumptions in climate extreme event attribution*. arXiv preprint [arXiv:2507.14019](https://arxiv.org/abs/2507.14019).
+- Li, M., & Castro-Camilo, D. (2026). *Tail-Calibrated Estimation of Extreme Quantile Treatment Effects*. arXiv preprint [arXiv:2603.23309](https://arxiv.org/abs/2603.23309).
+- Li, M., & Castro-Camilo, D. (2026). *Causal Discovery in Multivariate Extremes via Tail Asymmetry*. arXiv preprint [arXiv:2604.21620](https://arxiv.org/abs/2604.21620).
 
 ## Risk assessment of extreme events {#risk-assessment}
 
@@ -156,11 +165,11 @@ This theme connects extreme value methodology with decision-relevant risk summar
 **Related publications**
 
 - Li, M., Cuba, D., Hu, C. and Castro-Camilo, D. (2025). *A wee exploration of techniques for risk assessments of extreme events*. **Extremes**, 28(1), 101--121.
-- Castro-Camilo, D. and Huser, R. (2020). *Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes*. **JASA**, 115(531), 1037--1054.
+- Castro-Camilo, D. and Huser, R. (2020). *Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes*. **JASA**, 115(531), 1037--1054.DOI: [10.1080/01621459.2019.1647842](https://doi.org/10.1080/01621459.2019.1647842)
 - Castro-Camilo, D., de Carvalho, M. and Wadsworth, J. (2018). *Time-varying extreme value dependence with application to leading European stock markets*. **Annals of Applied Statistics**, 12(1), 283--309.
 - Hu, C., Swallow, B., & Castro-Camilo, D. (2024). *A Bayesian multivariate extreme value mixture model*. arXiv preprint arXiv:2401.15703.
 - Hu, C., & Castro-Camilo, D. (2025). *GPDFlow: Generative multivariate threshold exceedance modeling via normalizing flows*. arXiv preprint arXiv:2503.11822.
-- Li, M., & Castro-Camilo, D. (2026). *On the importance of tail assumptions in climate extreme event attribution*. arXiv preprint arXiv:2507.14019.
-- Li, M., & Castro-Camilo, D. (2026). *Tail-Calibrated Estimation of Extreme Quantile Treatment Effects*. arXiv preprint arXiv:2603.23309.
-- Li, M., & Castro-Camilo, D. (2026). *Causal Discovery in Multivariate Extremes via Tail Asymmetry*. arXiv preprint arXiv:2604.21620.
+- Li, M., & Castro-Camilo, D. (2026). *On the importance of tail assumptions in climate extreme event attribution*. arXiv preprint [arXiv:2507.14019](https://arxiv.org/abs/2507.14019).
+- Li, M., & Castro-Camilo, D. (2026). *Tail-Calibrated Estimation of Extreme Quantile Treatment Effects*. arXiv preprint [arXiv:2603.23309](https://arxiv.org/abs/2603.23309).
+- Li, M., & Castro-Camilo, D. (2026). *Causal Discovery in Multivariate Extremes via Tail Asymmetry*. arXiv preprint [arXiv:2604.21620](https://arxiv.org/abs/2604.21620).
 - Shen, T., Browell, J., & Castro-Camilo, D. (2026). *Adaptive Bayesian Very Short-Term Wind Power Forecasting Based on the Generalised Logit Transformation*. arXiv preprint arXiv:2505.06310.

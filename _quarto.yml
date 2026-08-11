@@ -30,7 +30,7 @@ website:
         href: publications.qmd
       - text: "Supervision"
         href: supervision.qmd
-      - text: "Talks"
+      - text: "Talks & Events"
         href: talks.qmd
       - text: "Admin"
         href: admin.qmd
