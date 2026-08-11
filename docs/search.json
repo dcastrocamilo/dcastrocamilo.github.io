@@ -21,18 +21,11 @@
     "text": "GLE²N\nI’m co-founder of the Glasgow-Edinburgh Extremes Network, a joint effort between statistician in Glasgow and Edinburgh working on statistics of extremes. Visit the network homepage to know more!\n\nGLE²N: Glasgow–Edinburgh Extremes Network"
   },
   {
-    "objectID": "talks.html#seminars-workshops-and-conferences-links",
-    "href": "talks.html#seminars-workshops-and-conferences-links",
-    "title": "Talks and Related Events",
-    "section": "Seminars, workshops and conferences links",
-    "text": "Seminars, workshops and conferences links\nHere are links of events I’m involved in some capacity (as main organiser or co-organiser)\n\nEnviBayes-INLA workshop 2027\nINLA: Past, Present, and Future workshop 2025\nEnvEcoStats 2025"
-  },
-  {
-    "objectID": "talks.html#how-to-add-a-talk",
-    "href": "talks.html#how-to-add-a-talk",
-    "title": "Talks and Related Events",
-    "section": "How to add a talk",
-    "text": "How to add a talk\nUse this template:\n- **Title of talk**  \n  Venue or event, month year.  \n  [Slides](#) · [Recording](#) · [Event page](#)"
+    "objectID": "talks.html#event-organisation",
+    "href": "talks.html#event-organisation",
+    "title": "Talks & Events",
+    "section": "Event organisation",
+    "text": "Event organisation\nHere are links of events I’m involved in some capacity (as main organiser or co-organiser)\n\nEnviBayes-INLA workshop 2027\nINLA: Past, Present, and Future workshop 2025\nEnvEcoStats 2025"
   },
   {
     "objectID": "supervision.html",
@@ -245,20 +238,6 @@
     "text": "Associate Editor, Environmetrics.\nAssociate Editor, Journal of the Royal Statistical Society, Series C.\nMeeting Secretary, Environmental Statistics Section, Royal Statistical Society (2022-25).\nChair, International Environmetrics Society Outreach and Liaison Committee (2023-2025).\nElected Member, International Statistical Institute."
   },
   {
-    "objectID": "admin.html#event-organisation-and-networks",
-    "href": "admin.html#event-organisation-and-networks",
-    "title": "Admin and service",
-    "section": "Event organisation and networks",
-    "text": "Event organisation and networks\n\nCo-founder, GLE²N: Glasgow–Edinburgh Extremes Network, a network for applied, theoretical and methodological work in statistical risk analysis and extreme value theory. Link here\nOrganiser, INLA: Past, Present, and Future biannual workshops. Link here\nCo-organiser, EnvEcoStats, environmental and ecological statistics conference. Link here)."
-  },
-  {
-    "objectID": "admin.html#grants-and-fellowships",
-    "href": "admin.html#grants-and-fellowships",
-    "title": "Admin and service",
-    "section": "Grants and Fellowships",
-    "text": "Grants and Fellowships\n\nSEED: Spatial Modelling of Extreme Counts for Environmental and Ecological Data. Royal Society of Edinburgh’s Personal Research Fellowship.\nGEOBEx: Geostatistical Binary Models for Extremes. EPSRC-funded project in collaboration with Carolina Euan, Lancaster University.\nPredict4Resilience beta phase. Funded by the Office for Gas and Electricity Markets, in collaboration with Scottish Power, SIA Partners and the Met Office.\nImproving landslide hazard assessment in Scotland. Funded by the Scottish Government through the National Centre for Resilience, with the British Geological Survey and the University of Twente."
-  },
-  {
     "objectID": "admin.html#university-roles",
     "href": "admin.html#university-roles",
     "title": "Admin and service",
@@ -271,12 +250,5 @@
     "title": "Admin and service",
     "section": "Teaching",
     "text": "Teaching\nRecent teaching has included:\n\nSTATS4047 / STATS5022: Principles of Probability and Statistics\nSTATS5103: Introduction to Statistical Programming in R and Python"
-  },
-  {
-    "objectID": "talks.html#event-organisation",
-    "href": "talks.html#event-organisation",
-    "title": "Talks & Events",
-    "section": "Event organisation",
-    "text": "Event organisation\nHere are links of events I’m involved in some capacity (as main organiser or co-organiser)\n\nEnviBayes-INLA workshop 2027\nINLA: Past, Present, and Future workshop 2025\nEnvEcoStats 2025"
   }
 ]
