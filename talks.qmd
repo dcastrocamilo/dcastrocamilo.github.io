@@ -8,7 +8,7 @@ canonical-url: "https://dcastrocamilo.github.io/talks.html"
 ## Recent talks
 
 - Talks based on the article [Tail-Calibrated Estimation of Extreme Quantile Treatment Effects](https://arxiv.org/abs/2603.23309)
-  - Invited talk given at the 2026 ISI RSC in Malta (more *stastsy*)
+  - Invited talk given at the 2026 ISI RSC in Malta (more *stastsy*)   [Slides](assets/talks/gpdflow-game-2026.pdf)
   - Invited talk given at the 2026 EXALT project workshop "Learning Spatio-Temporal Climate Extremes", for an audience including statisticians and climate scientists
 
 - Invited talk **Learning Extremal Dependence with Normalising Flows**  given at the GAME 2026 workshop in Bologna, based on [the GPDFlow article](https://arxiv.org/abs/2503.11822)

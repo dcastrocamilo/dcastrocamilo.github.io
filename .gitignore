@@ -9,6 +9,7 @@ BivariateExtremesCPH2023/Untitled_*
 BivariateExtremesCPH2023/BivariateExtremes_*
 BivariateExtremesCPH2023/Figures
 *.pdf
+!assets/talks/*.pdf
 CastroCamilo_Huser_2020.pdf
 
 /.quarto/
