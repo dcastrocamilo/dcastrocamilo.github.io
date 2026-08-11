@@ -30,7 +30,7 @@ This page lists publications by year, including manuscripts under revision. Topi
 7. Hu, C., Swallow, B., & Castro-Camilo, D. (2026). *A Bayesian multivariate extreme value mixture model*. **arXiv preprint** [arXiv:2401.15703](https://arxiv.org/abs/2401.15703).<br>
     **Topics:** [Tail modelling](research.qmd#tail-modelling), [Risk assessment](research.qmd#risk-assessment)
 
-8. Cuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2026). *Spatio-temporal data fusion of censored threshold exceedances*. **arXiv preprint** [arXiv:2504.20268](https://arxiv.org/abs/2504.20268).<br>
+8. Cuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2026). *Spatio-temporal fusion of reanalysis and in situ data for censored threshold exceedances of PM$_{2.5}$*. **arXiv preprint** [arXiv:2504.20268](https://arxiv.org/abs/2504.20268).<br>
     **Topics:** [Data fusion](research.qmd#data-fusion), [Tail modelling](research.qmd#tail-modelling), [Ecology & environment](research.qmd#ecology-environment)
 
 ## 2025

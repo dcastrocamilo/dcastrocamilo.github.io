@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Selected talks, lectures, workshops and event pages by statistician Daniela Castro-Camilo.">
 
-<title>Talks – Daniela Castro-Camilo</title>
+<title>Talks and Related Events – Daniela Castro-Camilo</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -108,13 +107,42 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Talks – Daniela Castro-Camilo">
-<meta property="og:description" content="Selected talks, lectures, workshops and event pages by statistician Daniela Castro-Camilo.">
+<meta property="og:title" content="Talks and Related Events – Daniela Castro-Camilo">
+<meta property="og:description" content="Selected talks, lectures and event pages">
 <meta property="og:site_name" content="Daniela Castro-Camilo">
-<meta name="twitter:title" content="Talks – Daniela Castro-Camilo">
-<meta name="twitter:description" content="Selected talks, lectures, workshops and event pages by statistician Daniela Castro-Camilo.">
+<meta name="twitter:title" content="Talks and Related Events – Daniela Castro-Camilo">
+<meta name="twitter:description" content="Selected talks, lectures and event pages">
 <meta name="twitter:card" content="summary">
 <link rel="canonical" href="https://dcastrocamilo.github.io/talks.html">
 </head>
@@ -147,6 +175,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./talks.html" aria-current="page"> 
+<span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./supervision.html"> 
@@ -194,8 +226,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#selected-talks" id="toc-selected-talks" class="nav-link active" data-scroll-target="#selected-talks">Selected talks</a></li>
-  <li><a href="#seminar-and-workshop-links" id="toc-seminar-and-workshop-links" class="nav-link" data-scroll-target="#seminar-and-workshop-links">Seminar and workshop links</a></li>
+  <li><a href="#recent-talks" id="toc-recent-talks" class="nav-link active" data-scroll-target="#recent-talks">Recent talks</a></li>
+  <li><a href="#gle²n" id="toc-gle²n" class="nav-link" data-scroll-target="#gle²n">GLE²N</a></li>
+  <li><a href="#seminars-workshops-and-conferences-links" id="toc-seminars-workshops-and-conferences-links" class="nav-link" data-scroll-target="#seminars-workshops-and-conferences-links">Seminars, workshops and conferences links</a></li>
   <li><a href="#how-to-add-a-talk" id="toc-how-to-add-a-talk" class="nav-link" data-scroll-target="#how-to-add-a-talk">How to add a talk</a></li>
   </ul>
 </nav>
@@ -205,15 +238,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Talks</h1>
+<h1 class="title">Talks and Related Events</h1>
 <p class="subtitle lead">Selected talks, lectures and event pages</p>
 </div>
 
-<div>
-  <div class="description">
-    Selected talks, lectures, workshops and event pages by statistician Daniela Castro-Camilo.
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
@@ -228,26 +256,34 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<p>This page is intended as a clean landing page for slides, recordings and event links. Add links as they become available.</p>
-<section id="selected-talks" class="level2">
-<h2 class="anchored" data-anchor-id="selected-talks">Selected talks</h2>
+<section id="recent-talks" class="level2">
+<h2 class="anchored" data-anchor-id="recent-talks">Recent talks</h2>
 <ul>
-<li><p><strong>Tail-calibrated quantile treatment effects for extreme event attribution</strong><br>
-Talk on causal inference and high-quantile estimation for climate/weather extremes.</p></li>
-<li><p><strong>Predicting multivariate extremes in environmental sciences</strong><br>
-Guest lecture / GLEN-related event page can be linked here.</p></li>
-<li><p><strong>Statistically principled environmental AI</strong><br>
-Panel session on the role of statistical principles in environmental AI.</p></li>
-<li><p><strong>INLA: Past, Present, and Future</strong><br>
-Workshop in honour of Håvard Rue’s 60th birthday. Add slides and tutorials here.</p></li>
+<li><p>Talks based on the article <a href="https://arxiv.org/abs/2603.23309">Tail-Calibrated Estimation of Extreme Quantile Treatment Effects</a></p>
+<ul>
+<li>Invited talk given at the 2026 ISI RSC in Malta (more <em>stastsy</em>)</li>
+<li>Invited talk given at the 2026 EXALT project workshop “Learning Spatio-Temporal Climate Extremes”, for an audience including statisticians and climate scientists</li>
+</ul></li>
+<li><p>Invited talk <strong>Learning Extremal Dependence with Normalising Flows</strong> given at the GAME 2026 workshop in Bologna, based on <a href="https://arxiv.org/abs/2503.11822">the GPDFlow article</a></p></li>
+<li><p>Seminar talk <strong>Data fusion and extremes: a match made in Bayesian heaven</strong> given at the EPN seminar series in 2025, based on <a href="https://arxiv.org/abs/2504.20268">Spatio-temporal fusion of reanalysis and in situ data for censored threshold exceedances of PM<span class="math inline">\(_{2.5}\)</span></a></p></li>
 </ul>
+<!-- - **INLA: Past, Present, and Future**   -->
+<!--   Workshop in honour of Håvard Rue's 60th birthday. Add slides and tutorials here. -->
 </section>
-<section id="seminar-and-workshop-links" class="level2">
-<h2 class="anchored" data-anchor-id="seminar-and-workshop-links">Seminar and workshop links</h2>
+<section id="gle²n" class="level2">
+<h2 class="anchored" data-anchor-id="gle²n">GLE²N</h2>
+<p>I’m co-founder of the Glasgow-Edinburgh Extremes Network, a joint effort between statistician in Glasgow and Edinburgh working on statistics of extremes. Visit the network homepage to know more!</p>
 <ul>
 <li><a href="https://glen-scotland.github.io/glen/">GLE²N: Glasgow–Edinburgh Extremes Network</a></li>
-<li><a href="https://dcastrocamilo.github.io/INLA-PastPresentFuture/">INLA: Past, Present, and Future</a></li>
-<li><a href="https://envecostats.wordpress.com/">EnvEcoStats</a></li>
+</ul>
+</section>
+<section id="seminars-workshops-and-conferences-links" class="level2">
+<h2 class="anchored" data-anchor-id="seminars-workshops-and-conferences-links">Seminars, workshops and conferences links</h2>
+<p>Here are links of events I’m involved in some capacity (as main organiser or co-organiser)</p>
+<ul>
+<li><p>EnviBayes-INLA workshop 2027</p></li>
+<li><p><a href="https://dcastrocamilo.github.io/INLA-PastPresentFuture/">INLA: Past, Present, and Future workshop 2025</a></p></li>
+<li><p><a href="https://envecostats.wordpress.com/">EnvEcoStats 2025</a></p></li>
 </ul>
 </section>
 <section id="how-to-add-a-talk" class="level2">
