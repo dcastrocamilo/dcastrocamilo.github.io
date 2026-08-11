@@ -28,10 +28,10 @@ website:
         href: research.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Talks"
-        href: talks.qmd
       - text: "Supervision"
         href: supervision.qmd
+      - text: "Talks"
+        href: talks.qmd
       - text: "Admin"
         href: admin.qmd
     right:
