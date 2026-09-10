@@ -32,9 +32,6 @@ If you are interested in doing a PhD, please email me at [Daniela.CastroCamilo@g
 - **Tao Shen**  
   *Adaptive Probabilistic Forecasting for Electricity Systems*
 
-- **Mengran Li**  
-  *Causal Inference in the Tails: Extreme Event Attribution, Treatment Effects, and Structural Discovery*
-
 - **Doris Kyerewaa Akoto**  
   *Downscaling and Prediction of Rainfall Extremes from Climate Model Outputs (RainX)*
 
@@ -43,6 +40,10 @@ If you are interested in doing a PhD, please email me at [Daniela.CastroCamilo@g
 -->
 
 ## Graduated PhD students
+
+- **Mengran Li**  
+  *Causal Inference in the Tails: Extreme Event Attribution, Treatment Effects, and Structural Discovery*<br>
+  [Link to thesis](https://theses.gla.ac.uk/86210/)
 
 - **Chenglei Hu**  
   *Flexible Joint Modelling of Multivariate Extreme and Non-extreme Events*<br>

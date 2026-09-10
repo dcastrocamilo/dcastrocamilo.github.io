@@ -7,6 +7,8 @@ canonical-url: "https://dcastrocamilo.github.io/admin.html"
 
 ## Professional service
 
+- Appointed Member of the Royal Society of Edinburgh's Young Academy of Scotland 
+([YAS](https://www.youngacademyofscotland.org.uk/)). 
 - Associate Editor, **Environmetrics**.
 - Associate Editor, **Journal of the Royal Statistical Society, Series C**.
 - Meeting Secretary, Environmental Statistics Section, Royal Statistical Society (2022-25).

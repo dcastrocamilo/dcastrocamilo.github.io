@@ -46,14 +46,14 @@
     "href": "supervision.html#current-phd-students",
     "title": "Supervision",
     "section": "Current PhD students",
-    "text": "Current PhD students\n\nTeng Wei Yeo\nBayesian Spatio-Temporal Modelling of Extremes: Forecasting, Scoring, and Data Fusion\nKirsty Ryman\nExtreme value theory for dispersal processes and animal movement in changing environments\nTao Shen\nAdaptive Probabilistic Forecasting for Electricity Systems\nMengran Li\nCausal Inference in the Tails: Extreme Event Attribution, Treatment Effects, and Structural Discovery\nDoris Kyerewaa Akoto\nDownscaling and Prediction of Rainfall Extremes from Climate Model Outputs (RainX)"
+    "text": "Current PhD students\n\nTeng Wei Yeo\nBayesian Spatio-Temporal Modelling of Extremes: Forecasting, Scoring, and Data Fusion\nKirsty Ryman\nExtreme value theory for dispersal processes and animal movement in changing environments\nTao Shen\nAdaptive Probabilistic Forecasting for Electricity Systems\nDoris Kyerewaa Akoto\nDownscaling and Prediction of Rainfall Extremes from Climate Model Outputs (RainX)"
   },
   {
     "objectID": "supervision.html#graduated-phd-students",
     "href": "supervision.html#graduated-phd-students",
     "title": "Supervision",
     "section": "Graduated PhD students",
-    "text": "Graduated PhD students\n\nChenglei Hu\nFlexible Joint Modelling of Multivariate Extreme and Non-extreme Events Link to thesis\nErin Bryce\nAn exploration of spatio-temporal statistical models for landslide hazard assessment and prediction Link to thesis\nDaniela Cuba\nSpatial modelling of soil and air pollution extremes Link to thesis"
+    "text": "Graduated PhD students\n\nMengran Li\nCausal Inference in the Tails: Extreme Event Attribution, Treatment Effects, and Structural Discovery Link to thesis\nChenglei Hu\nFlexible Joint Modelling of Multivariate Extreme and Non-extreme Events Link to thesis\nErin Bryce\nAn exploration of spatio-temporal statistical models for landslide hazard assessment and prediction Link to thesis\nDaniela Cuba\nSpatial modelling of soil and air pollution extremes Link to thesis"
   },
   {
     "objectID": "supervision.html#visiting-phd-students",
@@ -165,7 +165,7 @@
     "href": "publications.html#section",
     "title": "Publications",
     "section": "2026",
-    "text": "2026\n\nHu, C., Bispo, R. B., Rue, H., DaCamara, C. C., Swallow, B. and Castro-Camilo, D. (2026). XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal. Environmetrics, 37(3), e70089. DOI: 10.1002/env.70089.\nTopics: Spatial extremes, INLA/SPDE, Ecology & environment, Data fusion\nMaia, M., Castro-Camilo, D. and Browell, J. (2026). Probabilistic forecasting of weather-driven faults in electricity networks: a flexible approach for extreme and non-extreme events. Technometrics. Early online publication. DOI: 10.1080/00401706.2026.2649039.\nTopics: Energy risk, Tail modelling\nLi, M., & Castro-Camilo, D. (2026). On the importance of tail assumptions in climate extreme event attribution. arXiv preprint arXiv:2507.14019. Topics: Causality, Tail modelling, Risk assessment, Ecology & environment\nLi, M., & Castro-Camilo, D. (2026). Tail-Calibrated Estimation of Extreme Quantile Treatment Effects. arXiv preprint arXiv:2603.23309. Topics: Causality, Tail modelling, Risk assessment\nLi, M., & Castro-Camilo, D. (2026). Causal Discovery in Multivariate Extremes via Tail Asymmetry. arXiv preprint arXiv:2604.21620. Topics: Causality, Tail modelling, Risk assessment\nShen, T., Browell, J., & Castro-Camilo, D. (2026). Adaptive Bayesian Very Short-Term Wind Power Forecasting Based on the Generalised Logit Transformation. arXiv preprint arXiv:2505.06310. Topics: Energy risk, Risk assessment\nHu, C., Swallow, B., & Castro-Camilo, D. (2026). A Bayesian multivariate extreme value mixture model. arXiv preprint arXiv:2401.15703. Topics: Tail modelling, Risk assessment\nCuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2026). Spatio-temporal fusion of reanalysis and in situ data for censored threshold exceedances of PM\\(_{2.5}\\). arXiv preprint arXiv:2504.20268. Topics: Data fusion, Tail modelling, Ecology & environment"
+    "text": "2026\n\nCuba, M. D., Wilkie, C., Scott, M., & Castro-Camilo, D. (2026). Spatio-temporal fusion of reanalysis and in situ data for censored threshold exceedances of PM\\(_{2.5}\\). The Annals of Applied Statistics (to appear) arXiv:2504.20268. Topics: Data fusion, Tail modelling, Ecology & environment\nHu, C., Bispo, R. B., Rue, H., DaCamara, C. C., Swallow, B. and Castro-Camilo, D. (2026). XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal. Environmetrics, 37(3), e70089. DOI: 10.1002/env.70089.\nTopics: Spatial extremes, INLA/SPDE, Ecology & environment, Data fusion\nMaia, M., Castro-Camilo, D. and Browell, J. (2026). Probabilistic forecasting of weather-driven faults in electricity networks: a flexible approach for extreme and non-extreme events. Technometrics. Early online publication. DOI: 10.1080/00401706.2026.2649039.\nTopics: Energy risk, Tail modelling\nLi, M., & Castro-Camilo, D. (2026). On the importance of tail assumptions in climate extreme event attribution. arXiv preprint arXiv:2507.14019. Topics: Causality, Tail modelling, Risk assessment, Ecology & environment\nLi, M., & Castro-Camilo, D. (2026). Tail-Calibrated Estimation of Extreme Quantile Treatment Effects. arXiv preprint arXiv:2603.23309. Topics: Causality, Tail modelling, Risk assessment\nLi, M., & Castro-Camilo, D. (2026). Causal Discovery in Multivariate Extremes via Tail Asymmetry. arXiv preprint arXiv:2604.21620. Topics: Causality, Tail modelling, Risk assessment\nShen, T., Browell, J., & Castro-Camilo, D. (2026). Adaptive Bayesian Very Short-Term Wind Power Forecasting Based on the Generalised Logit Transformation. arXiv preprint arXiv:2505.06310. Topics: Energy risk, Risk assessment\nHu, C., Swallow, B., & Castro-Camilo, D. (2026). A Bayesian multivariate extreme value mixture model. arXiv preprint arXiv:2401.15703. Topics: Tail modelling, Risk assessment"
   },
   {
     "objectID": "publications.html#section-1",
@@ -228,14 +228,14 @@
     "href": "admin.html",
     "title": "Admin and service",
     "section": "",
-    "text": "Associate Editor, Environmetrics.\nAssociate Editor, Journal of the Royal Statistical Society, Series C.\nMeeting Secretary, Environmental Statistics Section, Royal Statistical Society (2022-25).\nChair, International Environmetrics Society Outreach and Liaison Committee (2023-2025).\nElected Member, International Statistical Institute."
+    "text": "Appointed Member of the Royal Society of Edinburgh’s Young Academy of Scotland (YAS).\nAssociate Editor, Environmetrics.\nAssociate Editor, Journal of the Royal Statistical Society, Series C.\nMeeting Secretary, Environmental Statistics Section, Royal Statistical Society (2022-25).\nChair, International Environmetrics Society Outreach and Liaison Committee (2023-2025).\nElected Member, International Statistical Institute."
   },
   {
     "objectID": "admin.html#professional-service",
     "href": "admin.html#professional-service",
     "title": "Admin and service",
     "section": "",
-    "text": "Associate Editor, Environmetrics.\nAssociate Editor, Journal of the Royal Statistical Society, Series C.\nMeeting Secretary, Environmental Statistics Section, Royal Statistical Society (2022-25).\nChair, International Environmetrics Society Outreach and Liaison Committee (2023-2025).\nElected Member, International Statistical Institute."
+    "text": "Appointed Member of the Royal Society of Edinburgh’s Young Academy of Scotland (YAS).\nAssociate Editor, Environmetrics.\nAssociate Editor, Journal of the Royal Statistical Society, Series C.\nMeeting Secretary, Environmental Statistics Section, Royal Statistical Society (2022-25).\nChair, International Environmetrics Society Outreach and Liaison Committee (2023-2025).\nElected Member, International Statistical Institute."
   },
   {
     "objectID": "admin.html#university-roles",
