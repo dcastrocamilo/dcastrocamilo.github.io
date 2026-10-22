@@ -13,7 +13,7 @@ body:has(.homepage) #title-block-header {
 }
 
 /* Make hero section truly full width */
-.page-layout-article {
+body:has(.homepage) .page-layout-article {
   max-width: 100% !important;
 }
 
@@ -40,9 +40,9 @@ body {
   padding-right: 1.15rem !important;
 }
 
-#quarto-content,
-#quarto-document-content,
-main.content {
+body:has(.homepage) #quarto-content,
+body:has(.homepage) #quarto-document-content,
+body:has(.homepage) main.content {
   max-width: none !important;
   width: 100% !important;
   padding: 0 !important;
@@ -90,7 +90,7 @@ body:has(.homepage) .page-columns .column-margin {
 }
 
 .hero-copy h1 {
-  white-space: nowrap;
+  overflow-wrap: anywhere;
   font-size: clamp(2.7rem, 4vw, 4.4rem);
   line-height: 1.02;
   margin-bottom: 1.25rem;
@@ -363,6 +363,147 @@ body:has(.homepage) .page-columns .column-margin {
 }
 
 /* Remove Quarto content width restrictions on home page */
-body .quarto-container {
+body:has(.homepage) .quarto-container {
   max-width: 100% !important;
+}
+
+/* Let grid children shrink to the available viewport width. */
+.hero-inner > *,
+.glance-grid > *,
+.research-grid > * {
+  min-width: 0;
+}
+
+/* Intermediate screens need fewer research columns before the phone layout. */
+@media (max-width: 1200px) {
+  .hero-inner {
+    width: calc(100% - 64px);
+    gap: 2.5rem;
+  }
+
+  .hero-copy p {
+    width: 100%;
+  }
+
+  .glance-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 991.98px) {
+  .navbar {
+    min-height: 64px;
+  }
+
+  .navbar-brand-container {
+    min-width: 0;
+  }
+
+  .navbar-brand {
+    font-size: clamp(.95rem, 3.8vw, 1.35rem);
+    white-space: normal;
+  }
+
+  .navbar-toggler,
+  .navbar-nav .nav-link {
+    min-height: 44px;
+  }
+
+  .navbar-collapse {
+    max-height: calc(100dvh - 80px);
+    overflow-y: auto;
+  }
+
+  .navbar-nav .nav-link {
+    display: flex;
+    align-items: center;
+  }
+
+  .hero-home {
+    min-height: 0;
+  }
+
+  .hero-inner {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2rem;
+    padding: 3rem 0;
+  }
+
+  .hero-copy h1 {
+    font-size: clamp(2.2rem, 6vw, 3.5rem);
+    line-height: 1.1;
+  }
+
+  .hero-role {
+    font-size: clamp(1.3rem, 3.5vw, 1.8rem);
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-photo {
+    width: 240px;
+    height: 240px;
+    max-width: 100%;
+  }
+
+  .contact-strip {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .hero-inner {
+    width: calc(100% - 40px);
+    padding: 2rem 0 2.5rem;
+  }
+
+  .hero-copy p {
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+
+  .hero-photo {
+    width: 200px;
+    height: 200px;
+    border-width: 6px;
+  }
+
+  .glance-section {
+    padding: 2.5rem 20px;
+  }
+
+  .glance-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem 1rem;
+  }
+
+  .glance-title {
+    font-size: 1.15rem;
+  }
+
+  .explore-button {
+    max-width: 100%;
+    justify-content: center;
+    text-align: center;
+    padding: .85rem 1.25rem;
+  }
+
+  main.content {
+    overflow-wrap: anywhere;
+  }
+
+  .contact-strip {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 360px) {
+  .glance-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (min-width: 1201px) {
+  .hero-copy h1 {
+    white-space: nowrap;
+  }
 }
